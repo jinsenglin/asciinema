@@ -1,4 +1,5 @@
 ```
+# install web player
 git clone https://github.com/jinsenglin/asciinema.git
 cd asciinema
 python -m SimpleHTTPServer
