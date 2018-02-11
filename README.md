@@ -14,6 +14,20 @@ asciinema rec demo.cast
 asciinema play demo.cast
 ```
 
+```
+# install asciinema on centos
+yum install asciinema
+
+# install asciinema on ubuntu
+apt-get install asciinema
+
+# install asciinema on macOS
+brew install asciinema
+
+# install asciinema via pip3
+pip3 install asciinema
+```
+
 # Additional Resources
 
 * https://asciinema.org/docs/installation
