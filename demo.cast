@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "width": 204,
+  "height": 25,
+  "duration": 2.412308,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.024038,
+      "\u001b[?1034hbash-3.2$ "
+    ],
+    [
+      0.576128,
+      "l"
+    ],
+    [
+      0.103704,
+      "s"
+    ],
+    [
+      0.188694,
+      "\r\n"
+    ],
+    [
+      0.00771,
+      "asciinema-player.css asciinema-player.js  demo.cast            player.html\r\n"
+    ],
+    [
+      0.000813,
+      "bash-3.2$ "
+    ],
+    [
+      0.532317,
+      "e"
+    ],
+    [
+      0.264947,
+      "x"
+    ],
+    [
+      0.241968,
+      "i"
+    ],
+    [
+      0.228501,
+      "t"
+    ],
+    [
+      0.23963,
+      "\r\n"
+    ]
+  ]
+}
